@@ -44,12 +44,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Sanjithkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjiri2318&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiri2318&layout=compact&theme=tokyonight&hide_border=true)
-
+<!-- Streak card (this one works, not hosted on the paused Vercel deployment) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanjiri2318&theme=tokyonight&hide_border=true)
 
 ---
@@ -81,10 +78,10 @@ Here are some of the projects I've worked on:
 
 ## 🎓 Certifications
 
-- Artificial Intelligence Course
-- Google Analytics Certification – Google
-- Software Engineering Job Simulation – Electronic Arts (EA)
-- Content Writing Internship
+- Artificial Intelligence Course  
+- Google Analytics Certification – Google  
+- Software Engineering Job Simulation – Electronic Arts (EA)  
+- Content Writing Internship  
 
 ---
 
